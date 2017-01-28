@@ -2,7 +2,7 @@
 Three Languages
 =====
 
-In my efforts to learn python and c++, I have writen the same programs in three languages.
+In my efforts to learn python and c++, I have writen the same programs in three languages.  Some of these programs ideas came from TLDP bash guide.
 
 Bash
 -----
