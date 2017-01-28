@@ -16,6 +16,8 @@ C++
 -----
 Rewritten in C++
 
+Note on header files:  I used .hh extention because that is what my IDE recognized as c++ as opposed to .h which it recognized as a C header file.
+
 
 =====
 Programs
